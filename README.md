@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/480e5577-2f2c-4759-a76a-85fef8b4e2e8" />
+<img width="1920" height="1080" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/c1a77bbb-52a9-4f04-b527-100e3d643530" />
+<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/d7add1bd-24ab-4932-9f07-dc0fb44f332f" />
+<img width="1920" height="1080" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/e46dbb34-675e-4852-85b7-4cc9c2657214" />
+<img width="1920" height="1080" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/786df68c-f4f2-407f-bf38-52b68f204195" />
+<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/f3b99654-d1ed-45d8-b49c-a7a061aec162" />
 # 📉 Telecom Customer Churn Analysis & Prediction
 
 ### 🚀 Project Overview
